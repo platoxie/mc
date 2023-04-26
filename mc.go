@@ -5,5 +5,5 @@ import (
 )
 
 func mc() {
-        fmt.Printf("mc v1.0\n") 
+        fmt.Printf("mc v1.1\n") 
 }
